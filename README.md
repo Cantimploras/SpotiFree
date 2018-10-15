@@ -65,15 +65,15 @@ https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts
 1.- Abrir una ventana de terminal.
 
 2.- Ingrese el siguiente comando para abrir el archivo hosts en un editor de texto:
-** sudo nano / etc / hosts **
+**sudo nano/etc/hosts**
 
 3.- Introduzca su contraseña de usuario de dominio.
 
-4.- ** No borre nada, escriba al final del archivo. **.
+4.- **No borre nada, escriba al final del archivo.**
 
 5.- Copie el contenido de este enlace y péguelo en el archivo hosts.
 https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts
 
 6.- Presiona Control-X.
 
-7.- Cuando se le pregunte si desea guardar sus cambios, ingrese ** y **.
+7.- Cuando se le pregunte si desea guardar sus cambios, ingrese **y**.
