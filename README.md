@@ -29,7 +29,7 @@ Clic en Ajustes --> Configuración --> Bloqueo de anuncios --> Más opciones de 
 
 #
 
-
+<a><img src="https://png.icons8.com/ios/50/000000/android-os.png"></a>
 # Add host manually in Android // Añadir host manualmente en Android
 <a><img src="https://png.icons8.com/windows/50/000000/es-file-explorer.png"></a>
 **Need "ES File Explorer"**
