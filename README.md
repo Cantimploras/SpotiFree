@@ -19,7 +19,9 @@ Click on AdBlock -> Options -> enter a URL -> And in the text field paste the fo
 Clic en AdBlock --> Opciones --> introduce una URL --> Y en el campo de texto pegar lo siguiente **https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts**
 
 #
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/43fa5b2b7c02b18b10d6365ef588c220bc931064/68747470733a2f2f692e696d6775722e636f6d2f36706b6d6a41302e706e67"><img src="https://camo.githubusercontent.com/43fa5b2b7c02b18b10d6365ef588c220bc931064/68747470733a2f2f692e696d6775722e636f6d2f36706b6d6a41302e706e67" alt="AdBlock Browser" data-canonical-src="https://i.imgur.com/6pkmjA0.png" style="max-width:100%;"></a><a href="https://adblockbrowser.org/" rel="nofollow">Adblock Browser</a> for <strong>iOS or MacOS</strong>  devices only
+
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/43fa5b2b7c02b18b10d6365ef588c220bc931064/68747470733a2f2f692e696d6775722e636f6d2f36706b6d6a41302e706e67"><img src="https://camo.githubusercontent.com/43fa5b2b7c02b18b10d6365ef588c220bc931064/68747470733a2f2f692e696d6775722e636f6d2f36706b6d6a41302e706e67" alt="AdBlock Browser" data-canonical-src="https://i.imgur.com/6pkmjA0.png" style="max-width:100%;"></a>
+<a href="https://adblockbrowser.org/" rel="nofollow">Adblock Browser</a> for <strong>Android</strong> and <strong>iOS</strong> devices only
 
 Click on Settings -> Settings -> Ad Blocking -> More blocking options -> Add another filter list -> And in the text field paste the following **https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts**
 
@@ -28,21 +30,46 @@ Clic en Ajustes --> Configuración --> Bloqueo de anuncios --> Más opciones de 
 #
 
 
+# Add host manually in Android // Añadir host manualmente en Android
+<a><img src="https://png.icons8.com/windows/50/000000/es-file-explorer.png"></a>
+**Need "ES File Explorer"**
+
+1.- Open ES File Explorer
+
+2.- Go Local --> Device **in the side menu**
+
+3.- Go System --> etc --> hosts --> open as text --> ES text editor --> Edit
+
+4.- **And without deleting anything, write at the end of the file.**
+
+5.- Copy the contents of this link and paste it into the hosts file.
+https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts
+
+  
+#
+      
 
 
 
+<a><img src="https://png.icons8.com/windows/50/000000/es-file-explorer.png"></a>
+**Se necesita "ES File Explorer"**
 
+1.- Abrir ES Explorador de Archivos 
 
+2.- Ir Local -> Dispositivo **en el menú lateral**
+
+3.- Ir a Sistema -> etc -> hosts -> abrir como texto -> ES editor de texto  -> Editar
+
+4.- **Y sin borrar nada, escriba al final del archivo.**
+
+5.- Copie el contenido de este enlace y péguelo en el archivo hosts.
+https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts
 
 #
 
 
-
-
-
-
-
-# Add host manually in Windows (It works for the web version).
+<a><img src="https://png.icons8.com/windows/50/000000/windows-logo.png"></a>
+# Add host manually in Windows.
 
 1.- Press the Windows key.
 
@@ -61,7 +88,8 @@ https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts
 7.- Choose File> Save (File> Save) to save your changes.
 
 
-# Añadir host en Windows manualmente (Funciona para la versión web).
+
+# Añadir host en Windows manualmente.
 1.- Presiona la tecla de Windows.
 
 2.- Escribe el Bloc de notas en el campo de búsqueda.
@@ -80,8 +108,8 @@ https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts
 
 
 
-
-# Add host manually in Linux (It works for the web version).
+<a><img src="https://png.icons8.com/windows/50/000000/linux.png"></a>
+# Add host manually in Linux.
 1.- Open a Terminal window.
 
 2.- Enter the following command to open the hosts file in a text editor:
@@ -99,7 +127,8 @@ https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts
 7.- When you are asked if you want to save your changes, enter **y**.
 
 
-# Agregar host manualmente en Linux (Funciona para la versión web).
+
+# Agregar host manualmente en Linux.
 1.- Abrir una ventana de terminal.
 
 2.- Ingrese el siguiente comando para abrir el archivo hosts en un editor de texto:
