@@ -4,7 +4,7 @@
 This project has been created to avoid so much publicity, it will be updated almost daily
 
 
-# Add host manually in Windows
+# Add host manually in Windows (It works for the web version).
 
 1.- Press the Windows key.
 
@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts
 7.- Choose File> Save (File> Save) to save your changes.
 
 
-# Añadir host en Windows manualmente
+# Añadir host en Windows manualmente (Funciona para la versión web).
 1.- Presiona la tecla de Windows.
 
 2.- Escribe el Bloc de notas en el campo de búsqueda.
@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts
 
 
 
-# Add host manually in Linux
+# Add host manually in Linux (It works for the web version).
 1.- Open a Terminal window.
 
 2.- Enter the following command to open the hosts file in a text editor:
@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts
 7.- When you are asked if you want to save your changes, enter **y**.
 
 
-# Agregar host manualmente en Linux
+# Agregar host manualmente en Linux (Funciona para la versión web).
 1.- Abrir una ventana de terminal.
 
 2.- Ingrese el siguiente comando para abrir el archivo hosts en un editor de texto:
