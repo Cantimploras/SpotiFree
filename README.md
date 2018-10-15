@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts
 https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts
 
 7.- Elija Archivo> Guardar (Archivo> Guardar) para guardar sus cambios.
-
+# 
 
 
 <a><img src="https://png.icons8.com/windows/50/000000/linux.png"></a>
@@ -126,13 +126,55 @@ https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts
 
 7.- When you are asked if you want to save your changes, enter **y**.
 
-
+# 
 
 # Agregar host manualmente en Linux.
 1.- Abrir una ventana de terminal.
 
 2.- Ingrese el siguiente comando para abrir el archivo hosts en un editor de texto:
 **sudo nano/etc/hosts**
+
+3.- Introduzca su contraseña de usuario de dominio.
+
+4.- **No borre nada, escriba al final del archivo.**
+
+5.- Copie el contenido de este enlace y péguelo en el archivo hosts.
+https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts
+
+6.- Presiona Control-X.
+
+7.- Cuando se le pregunte si desea guardar sus cambios, ingrese **y**.
+
+
+
+
+
+# 
+<a><img src="https://png.icons8.com/ios/50/000000/mac-os.png"></a>
+# Add host manually in Mac.
+1.- Open a Terminal window.
+
+2.- Enter the following command to open the hosts file in a text editor:
+**sudo nano /private/etc/hosts**
+
+3.- Enter your domain user password.
+
+4.- **Do not erase anything, write at the end of the file.**.
+
+5.- Copy the contents of this link and paste it into the hosts file
+https://raw.githubusercontent.com/Cantimploras/SpotiFree/master/SpotiHosts
+
+6.- Press Control-X.
+
+7.- When you are asked if you want to save your changes, enter **y**.
+
+# 
+
+# Agregar host manualmente en Mac.
+1.- Abrir una ventana de terminal.
+
+2.- Ingrese el siguiente comando para abrir el archivo hosts en un editor de texto:
+**sudo nano /private/etc/hosts**
 
 3.- Introduzca su contraseña de usuario de dominio.
 
